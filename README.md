@@ -2,9 +2,7 @@
 Last updated on 2020/04/26
 
 
-## lists/bounty
-| handle | name |
-|--------|------|
+## lists
 |[@0xacb](https://twitter.com/0xacb) | André Baptista|
 |[@0xd0m7](https://twitter.com/0xd0m7) | 0xd0m7|
 |[@0xpatrik](https://twitter.com/0xpatrik) | Patrik Hudak|
@@ -39,7 +37,6 @@ Last updated on 2020/04/26
 |[@EdOverflow](https://twitter.com/EdOverflow) | Ed|
 |[@erbbysam](https://twitter.com/erbbysam) | erbbysamᐸscriptᐳaler|
 |[@eur0pa_](https://twitter.com/eur0pa_) | europa|
-|[@filedescriptor](https://twitter.com/filedescriptor) | FD|
 |[@filedescriptor](https://twitter.com/filedescriptor) | FD|
 |[@foobar0x7](https://twitter.com/foobar0x7) | foobar7|
 |[@fransrosen](https://twitter.com/fransrosen) | Frans Rosén|
@@ -100,10 +97,8 @@ Last updated on 2020/04/26
 |[@securibee](https://twitter.com/securibee) | The Notorious B.E.E. 🐝|
 |[@securinti](https://twitter.com/securinti) | Inti De Ceukelaire|
 |[@securitybites](https://twitter.com/securitybites) | Jesse Kinser|
-|[@securitybites](https://twitter.com/securitybites) | Jesse Kinser|
 |[@shailesh4594](https://twitter.com/shailesh4594) | Shailesh Suthar|
 |[@shub66452](https://twitter.com/shub66452) | $!|3nt_4unt3r|
-|[@skeltavik](https://twitter.com/skeltavik) | Bram Ruttens|
 |[@skeltavik](https://twitter.com/skeltavik) | Bram Ruttens|
 |[@smiegles](https://twitter.com/smiegles) | Olivier Beg|
 |[@sml555_](https://twitter.com/sml555_) | Sajeeb Lohani (sml555)|
