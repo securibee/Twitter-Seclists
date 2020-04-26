@@ -2,7 +2,7 @@
 LIST_ID=$1
 LIST_NAME=$(curl -s https://twitter.com/i/lists/$LIST_ID | grep "<title>" | awk -F'/' '{ print $2 }' | awk '{print $1}')
 CURSOR="-1"
-DIR=$PWD/lists/$LIST_NAME-$LIST_ID
+DIR=$PWD/lists-temp/$LIST_NAME-$LIST_ID
 RAW="$DIR/raw"
 
 mkdir -p $RAW
