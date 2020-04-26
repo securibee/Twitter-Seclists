@@ -3,6 +3,8 @@ Last updated on 2020/04/26
 
 
 ## lists/bounty
+| handle | name |
+|--------|------|
 |[@chevonphillip](https://twitter.com/chevonphillip) | Chevon Phillip|
 |[@Masonhck3571](https://twitter.com/Masonhck3571) | Masonhck357|
 |[@Michael1026H1](https://twitter.com/Michael1026H1) | Michael Blake|

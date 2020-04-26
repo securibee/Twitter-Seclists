@@ -8,7 +8,7 @@ echo -e "\n" >> $README
 
 for d in lists/*; do
   echo "## $(echo $d | awk -F'-' '{ print $1 }')" >> $README 
-  echo "$(cat $d/table)" >> $README
+  echo "$(cat $d/table | sed 's/\"//g')" >> $README
 done
 
 echo -e "\n" >> $README
