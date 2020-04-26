@@ -17,7 +17,7 @@ do
   cat $f | jq '[.[] ] | .[0][] | .screen_name' >> $DIR/list-tmp
 done
 
-echo "$(cat $DIR/table-tmp | sed 's/\"//g' | sort -u)" > $DIR/table
+echo "$(cat $DIR/table-tmp | sed 's/\"//g' | sort -u)" >> $DIR/table
 [ ! -f $LIST_FILE ] && echo "$(cat $DIR/list-tmp | sed 's/\"//g' | sort -u)" > $LIST_FILE
 
 ./create-readme.sh

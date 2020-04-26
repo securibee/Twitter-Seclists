@@ -3,6 +3,8 @@ Last updated on 2020/04/26
 
 
 ## lists
+| handle | name |
+|--------|------|
 |[@0xacb](https://twitter.com/0xacb) | André Baptista|
 |[@0xd0m7](https://twitter.com/0xd0m7) | 0xd0m7|
 |[@0xpatrik](https://twitter.com/0xpatrik) | Patrik Hudak|
