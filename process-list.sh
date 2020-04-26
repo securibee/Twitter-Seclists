@@ -9,7 +9,9 @@ echo "|--------|------|" >> $DIR/table
 
 for f in $FILES
 do
-  cat $f | jq '[.[] ] | .[0][] | "|[@"+.screen_name+"](https://twitter.com/"+.screen_name+") | "+.name+"|"' >> $DIR/table
+  cat $f | jq '[.[] ] | .[0][] | "|[@"+.screen_name+"](https://twitter.com/"+.screen_name+") | "+.name+"|"' >> $DIR/table-temp
 done
+
+sed 's/\"//g' $DIR/table-temp > $DIR/table
 
 echo "Done processing $DIR"
