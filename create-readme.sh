@@ -7,7 +7,7 @@ echo "Last updated on $(date +'%Y/%m/%d')" >> $README
 echo -e "\n" >> $README
 
 for d in lists-temp/*; do
-  echo "## $(echo $d | awk -F'-' '{ print $1 }')" >> $README 
+  echo "## $(echo $d | awk -F'/' '{ print $2 }' | awk -F'-' '{ print $1}')" >> $README 
   echo "$(cat $d/table | sed 's/\"//g')" >> $README
 done
 

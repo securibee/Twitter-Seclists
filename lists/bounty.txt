@@ -3,8 +3,10 @@
 0xpatrik
 0xteknogeek
 adrien_jeanneau
+AEMSecurity
 Agarri_FR
 ajxchapman
+akita_zen
 albinowax
 alicanact60
 alxbrsn
@@ -40,6 +42,8 @@ Gromak123_Sec
 gwendallecoguic
 hacker_
 hakluke
+HazanaSec
+hgreal1
 honoki
 HusseiN98D
 imranparray101
@@ -62,6 +66,7 @@ mcipekci
 Michael1026H1
 Mik317_
 mongobug
+MrMustacheMan3
 MrTuxracer
 NahamSec
 ngalongc
@@ -77,6 +82,7 @@ phwd
 plmaltais
 r0x33d
 Regala_
+rez0__
 Rhynorater
 rhyselsmore
 rohk_infosec

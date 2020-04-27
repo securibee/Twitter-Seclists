@@ -5,8 +5,19 @@ CURSOR="-1"
 DIR=$PWD/lists-temp/$LIST_NAME-$LIST_ID
 RAW="$DIR/raw"
 
+rm -rf $DIR
 mkdir -p $RAW
-rm -rf $RAW/*
+
+cp $PWD/lists/$LIST_NAME.txt $DIR/$LIST_NAME-old
+git pull
+cat $DIR/$LIST_NAME-old | anew $PWD/lists/$LIST_NAME.txt > $DIR/additions
+
+if [ -s $(cat "$DIR"/additions | wc -l) ]; then
+  NAMES=$(cat $DIR/additions | xargs | sed -e 's/ /,/g')
+  echo $NAMES
+#  #curl -s -X POST -h \ "Authorization: Bearer $(cat $PWD/.env | head -n 1)" \
+#  #"https://api.twitter.com/1.1/lists/members/create_all.json?screen_name=$NAMES&list_id=$LIST_ID"
+fi;
 
 while true; do
   if [ $CURSOR -eq 0 ]; then

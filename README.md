@@ -2,7 +2,7 @@
 Last updated on 2020/04/26
 
 
-## lists
+## bounty
 | handle | name |
 |--------|------|
 |[@0xacb](https://twitter.com/0xacb) | André Baptista|
@@ -10,8 +10,10 @@ Last updated on 2020/04/26
 |[@0xpatrik](https://twitter.com/0xpatrik) | Patrik Hudak|
 |[@0xteknogeek](https://twitter.com/0xteknogeek) | Joel Margolis|
 |[@adrien_jeanneau](https://twitter.com/adrien_jeanneau) | Adrien|
+|[@AEMSecurity](https://twitter.com/AEMSecurity) | AEMSecurity|
 |[@Agarri_FR](https://twitter.com/Agarri_FR) | Nicolas Grégoire|
 |[@ajxchapman](https://twitter.com/ajxchapman) | Alex Chapman|
+|[@akita_zen](https://twitter.com/akita_zen) | ak1t4 🇦🇷|
 |[@albinowax](https://twitter.com/albinowax) | James Kettle|
 |[@alicanact60](https://twitter.com/alicanact60) | Ali Tütüncü|
 |[@alxbrsn](https://twitter.com/alxbrsn) | Alex Birsan|
@@ -47,6 +49,8 @@ Last updated on 2020/04/26
 |[@gwendallecoguic](https://twitter.com/gwendallecoguic) | Gwendal Le Coguic|
 |[@hacker_](https://twitter.com/hacker_) | Corben Leo|
 |[@hakluke](https://twitter.com/hakluke) | Luke Stephens (hakluke)|
+|[@HazanaSec](https://twitter.com/HazanaSec) | ʜᴀᴢᴀɴᴀ|
+|[@hgreal1](https://twitter.com/hgreal1) | hg_real|
 |[@honoki](https://twitter.com/honoki) | Pieter Hiele|
 |[@HusseiN98D](https://twitter.com/HusseiN98D) | Hussein Daher|
 |[@imranparray101](https://twitter.com/imranparray101) | Imran Parray|
@@ -69,6 +73,7 @@ Last updated on 2020/04/26
 |[@Michael1026H1](https://twitter.com/Michael1026H1) | Michael Blake|
 |[@Mik317_](https://twitter.com/Mik317_) | Michele Romano|
 |[@mongobug](https://twitter.com/mongobug) | mongo|
+|[@MrMustacheMan3](https://twitter.com/MrMustacheMan3) | MrMustacheMan|
 |[@MrTuxracer](https://twitter.com/MrTuxracer) | Julien Ahrens|
 |[@NahamSec](https://twitter.com/NahamSec) | NahamSec|
 |[@ngalongc](https://twitter.com/ngalongc) | Ron Chan|
@@ -84,6 +89,7 @@ Last updated on 2020/04/26
 |[@plmaltais](https://twitter.com/plmaltais) | ramsexy|
 |[@r0x33d](https://twitter.com/r0x33d) | Matt|
 |[@Regala_](https://twitter.com/Regala_) | Fisher|
+|[@rez0__](https://twitter.com/rez0__) | 𝚛 𝚎 𝚣 𝟶|
 |[@Rhynorater](https://twitter.com/Rhynorater) | Justin Gardner|
 |[@rhyselsmore](https://twitter.com/rhyselsmore) | 🥯|
 |[@rohk_infosec](https://twitter.com/rohk_infosec) | Kevin|
