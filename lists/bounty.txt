@@ -2,6 +2,7 @@
 0xd0m7
 0xpatrik
 0xteknogeek
+11xuxx
 adrien_jeanneau
 AEMSecurity
 Agarri_FR
@@ -9,6 +10,7 @@ ajxchapman
 akita_zen
 albinowax
 alicanact60
+Alra3ees
 alxbrsn
 Alyssa_Herrera_
 ameenmaali
@@ -22,6 +24,7 @@ bendtheory
 bitquark
 Black2Fan
 BonJarber
+bsysop
 BugBountyHQ
 chevonphillip
 codecancare
@@ -49,6 +52,7 @@ HusseiN98D
 imranparray101
 infosec_au
 inhibitor181
+InsiderPhD
 irsdl
 itscachemoney
 ITSecurityguard
@@ -58,6 +62,7 @@ Jhaddix
 jinonehk
 JonathanBouman
 jon_bottarini
+joohoi
 JR0ch17
 jstnkndy
 kazan71p
