@@ -24,6 +24,7 @@ bendtheory
 bitquark
 Black2Fan
 BonJarber
+brxxnh1
 bsysop
 BugBountyHQ
 chevonphillip
@@ -65,7 +66,9 @@ jon_bottarini
 joohoi
 JR0ch17
 jstnkndy
+kapytein
 kazan71p
+LivEdOverflow
 Masonhck3571
 mcipekci
 Michael1026H1
@@ -78,6 +81,7 @@ ngalongc
 ngkogkos
 ngocdh
 nnwakelam
+not_aardvark
 nullenc0de
 orange_8361
 p4fg
@@ -85,6 +89,7 @@ PascalSec
 PentesterLand
 phwd
 plmaltais
+pnig0s
 r0x33d
 Regala_
 rez0__

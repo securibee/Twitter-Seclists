@@ -1,5 +1,5 @@
 # Twitter SecLists
-Last updated on 2020/04/28
+Last updated on 2020/04/29
 
 
 ## bounty
@@ -31,6 +31,7 @@ Last updated on 2020/04/28
 |[@bitquark](https://twitter.com/bitquark) | bitquark@home|
 |[@Black2Fan](https://twitter.com/Black2Fan) | Sergey Bobrov|
 |[@BonJarber](https://twitter.com/BonJarber) | Jon Barber|
+|[@brxxnh1](https://twitter.com/brxxnh1) | brxxn (security)|
 |[@bsysop](https://twitter.com/bsysop) | bsysop|
 |[@BugBountyHQ](https://twitter.com/BugBountyHQ) | BugBountyHQ|
 |[@chevonphillip](https://twitter.com/chevonphillip) | Chevon Phillip|
@@ -72,7 +73,9 @@ Last updated on 2020/04/28
 |[@joohoi](https://twitter.com/joohoi) | Joo, N/A|
 |[@JR0ch17](https://twitter.com/JR0ch17) | JR0ch17|
 |[@jstnkndy](https://twitter.com/jstnkndy) | Justin Kennedy|
+|[@kapytein](https://twitter.com/kapytein) | Nadir|
 |[@kazan71p](https://twitter.com/kazan71p) | kazan71p|
+|[@LivEdOverflow](https://twitter.com/LivEdOverflow) | LivEdOverflow 🔴🐸|
 |[@Masonhck3571](https://twitter.com/Masonhck3571) | Masonhck357|
 |[@mcipekci](https://twitter.com/mcipekci) | Mustafa Can İPEKÇİ|
 |[@Michael1026H1](https://twitter.com/Michael1026H1) | Michael Blake|
@@ -85,6 +88,7 @@ Last updated on 2020/04/28
 |[@ngkogkos](https://twitter.com/ngkogkos) | Nick || hunt4p1zza|
 |[@ngocdh](https://twitter.com/ngocdh) | Huy Ngoc|
 |[@nnwakelam](https://twitter.com/nnwakelam) | n a f f y | supreme leader|
+|[@not_aardvark](https://twitter.com/not_aardvark) | Teddy Katz|
 |[@nullenc0de](https://twitter.com/nullenc0de) | Paul Seekamp|
 |[@orange_8361](https://twitter.com/orange_8361) | Orange Tsai  🍊|
 |[@p4fg](https://twitter.com/p4fg) | Peter|
@@ -92,6 +96,7 @@ Last updated on 2020/04/28
 |[@PentesterLand](https://twitter.com/PentesterLand) | Pentester Land|
 |[@phwd](https://twitter.com/phwd) | ⋆|
 |[@plmaltais](https://twitter.com/plmaltais) | ramsexy|
+|[@pnig0s](https://twitter.com/pnig0s) | Terry Zhang|
 |[@r0x33d](https://twitter.com/r0x33d) | Matt|
 |[@Regala_](https://twitter.com/Regala_) | Fisher|
 |[@rez0__](https://twitter.com/rez0__) | rez0|
