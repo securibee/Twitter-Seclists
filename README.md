@@ -1,14 +1,14 @@
 # Twitter SecLists
-Last updated on 2020/05/18
+Last updated on 2020/06/24
 
 
-## bounty
+## 
 | handle | name |
 |--------|------|
-|[@0x0luke](https://twitter.com/0x0luke) | 0x0luke|
+|[@0x0luke](https://twitter.com/0x0luke) | Luke|
 |[@0xacb](https://twitter.com/0xacb) | André Baptista|
 |[@0xd0m7](https://twitter.com/0xd0m7) | 0xd0m7|
-|[@0xInfection](https://twitter.com/0xInfection) | Infected Drake|
+|[@0xInfection](https://twitter.com/0xInfection) | Pinaki|
 |[@0xpatrik](https://twitter.com/0xpatrik) | Patrik Hudak|
 |[@0xteknogeek](https://twitter.com/0xteknogeek) | Joel Margolis|
 |[@11xuxx](https://twitter.com/11xuxx) | Ashkan Jahanbakhsh|
@@ -34,7 +34,7 @@ Last updated on 2020/05/18
 |[@B3nac](https://twitter.com/B3nac) | Kyle|
 |[@bbuerhaus](https://twitter.com/bbuerhaus) | Brett Buerhaus|
 |[@bendtheory](https://twitter.com/bendtheory) | bend theory|
-|[@bitquark](https://twitter.com/bitquark) | bitquark@home|
+|[@bitquark](https://twitter.com/bitquark) | bitquark@home ✪|
 |[@Black2Fan](https://twitter.com/Black2Fan) | Sergey Bobrov|
 |[@BonJarber](https://twitter.com/BonJarber) | Jon Barber|
 |[@brxxnh1](https://twitter.com/brxxnh1) | brxxn (security)|
@@ -45,7 +45,7 @@ Last updated on 2020/05/18
 |[@codingo_](https://twitter.com/codingo_) | Michael Skelton|
 |[@Corb3nik](https://twitter.com/Corb3nik) | Ian Bouchard|
 |[@d0nutptr](https://twitter.com/d0nutptr) | d0nut|
-|[@damian_89_](https://twitter.com/damian_89_) | Damian Schwyrz|
+|[@damian_89_](https://twitter.com/damian_89_) | Damian Strobel|
 |[@dee__see](https://twitter.com/dee__see) | Dominic 🐐|
 |[@defparam](https://twitter.com/defparam) | Evan Custodio|
 |[@dhauenstein](https://twitter.com/dhauenstein) | Daniel Hauenstein|
@@ -61,9 +61,11 @@ Last updated on 2020/05/18
 |[@gerben_javado](https://twitter.com/gerben_javado) | Gerben Javado|
 |[@Gromak123_Sec](https://twitter.com/Gromak123_Sec) | Gromak123_Security|
 |[@gwendallecoguic](https://twitter.com/gwendallecoguic) | Gwendal Le Coguic|
+|[@h1_sp1d3r](https://twitter.com/h1_sp1d3r) | Evgeniy Yakovchuk|
 |[@hacker_](https://twitter.com/hacker_) | Corben Leo|
 |[@hahwul](https://twitter.com/hahwul) | HAHWUL|
-|[@hakluke](https://twitter.com/hakluke) | Luke Stephens (hakluke)|
+|[@hakluke](https://twitter.com/hakluke) | HΔKLUKΞ|
+|[@hateshaped](https://twitter.com/hateshaped) | hateshape|
 |[@HazanaSec](https://twitter.com/HazanaSec) | ʜᴀᴢᴀɴᴀ|
 |[@hgreal1](https://twitter.com/hgreal1) | hg_real|
 |[@honoki](https://twitter.com/honoki) | Pieter Hiele|
@@ -80,6 +82,7 @@ Last updated on 2020/05/18
 |[@Jhaddix](https://twitter.com/Jhaddix) | Jason Haddix|
 |[@jinonehk](https://twitter.com/jinonehk) | Jinone|
 |[@jobertabma](https://twitter.com/jobertabma) | Jobert Abma|
+|[@JohnH4X00R](https://twitter.com/JohnH4X00R) | John H4X0R|
 |[@JonathanBouman](https://twitter.com/JonathanBouman) | Jonathan Bouman|
 |[@jon_bottarini](https://twitter.com/jon_bottarini) | Jon Bottarini|
 |[@joohoi](https://twitter.com/joohoi) | Joo, N/A|
@@ -89,26 +92,34 @@ Last updated on 2020/05/18
 |[@KasperFritzo](https://twitter.com/KasperFritzo) | Kasper Borg|
 |[@kazan71p](https://twitter.com/kazan71p) | kazan71p|
 |[@LivEdOverflow](https://twitter.com/LivEdOverflow) | LivEdOverflow 🔴🐸|
+|[@Masonhck3571](https://twitter.com/Masonhck3571) | Masonhck357|
 |[@mcipekci](https://twitter.com/mcipekci) | Mustafa Can İPEKÇİ|
 |[@Michael1026H1](https://twitter.com/Michael1026H1) | Michael Blake|
 |[@Mik317_](https://twitter.com/Mik317_) | Michele Romano|
 |[@mongobug](https://twitter.com/mongobug) | mongo|
 |[@MrMustacheMan3](https://twitter.com/MrMustacheMan3) | MrMustacheMan|
 |[@MrTuxracer](https://twitter.com/MrTuxracer) | Julien Ahrens|
+|[@nader_brandi](https://twitter.com/nader_brandi) | nader|
 |[@NahamSec](https://twitter.com/NahamSec) | NahamSec|
+|[@nahoragg](https://twitter.com/nahoragg) | Rohan Aggarwal|
 |[@ngalongc](https://twitter.com/ngalongc) | Ron Chan|
 |[@ngkogkos](https://twitter.com/ngkogkos) | Nick || hunt4p1zza|
 |[@ngocdh](https://twitter.com/ngocdh) | Huy Ngoc|
-|[@nnwakelam](https://twitter.com/nnwakelam) | n a f f y | supreme leader|
+|[@nijagaw](https://twitter.com/nijagaw) | Nico|
+|[@nnwakelam](https://twitter.com/nnwakelam) | n a f f y | break out break in artist|
 |[@not_aardvark](https://twitter.com/not_aardvark) | Teddy Katz|
 |[@nullenc0de](https://twitter.com/nullenc0de) | Paul Seekamp|
 |[@orange_8361](https://twitter.com/orange_8361) | Orange Tsai  🍊|
 |[@p4fg](https://twitter.com/p4fg) | Peter|
-|[@PascalSec](https://twitter.com/PascalSec) | Pascal S|
+|[@PascalSec](https://twitter.com/PascalSec) | ΡΛSCΛLSΞC|
 |[@PentesterLand](https://twitter.com/PentesterLand) | Pentester Land|
+|[@phwd](https://twitter.com/phwd) | ⋆|
 |[@plmaltais](https://twitter.com/plmaltais) | ramsexy|
 |[@pnig0s](https://twitter.com/pnig0s) | Terry Zhang @ The Planet|
+|[@pudsec](https://twitter.com/pudsec) | Shaun|
 |[@pxmme1337](https://twitter.com/pxmme1337) | Pomme|
+|[@r0bre](https://twitter.com/r0bre) | r0bre|
+|[@r0hack](https://twitter.com/r0hack) | Ramazan|
 |[@r0x33d](https://twitter.com/r0x33d) | Matt|
 |[@Regala_](https://twitter.com/Regala_) | Fisher|
 |[@rez0__](https://twitter.com/rez0__) | rez0|
@@ -118,16 +129,18 @@ Last updated on 2020/05/18
 |[@rohk_infosec](https://twitter.com/rohk_infosec) | Kevin|
 |[@rootxharsh](https://twitter.com/rootxharsh) | Harsh Jaiswal|
 |[@rub003](https://twitter.com/rub003) | 003random|
-|[@_ruby](https://twitter.com/_ruby) | ruby|
+|[@_ruby](https://twitter.com/_ruby) | BLM || ruby|
+|[@rwincey](https://twitter.com/rwincey) | b0yd|
 |[@Sambal0x](https://twitter.com/Sambal0x) | Richard Tan|
 |[@samengmg](https://twitter.com/samengmg) | samuel eng |
 |[@Samm0uda](https://twitter.com/Samm0uda) | Youssef Sammouda|
-|[@samwcyo](https://twitter.com/samwcyo) | Sam Curry (zlz)|
+|[@samwcyo](https://twitter.com/samwcyo) | Sam Curry|
 |[@santi_lopezz99](https://twitter.com/santi_lopezz99) | Santiago Lopez|
+|[@satishb3](https://twitter.com/satishb3) | Satish Bommisetty|
 |[@_SaxX_](https://twitter.com/_SaxX_) | S. A. X. X.|
 |[@seanmeals](https://twitter.com/seanmeals) | Sean Melia|
 |[@SebMorin1](https://twitter.com/SebMorin1) | Sébastien Morin|
-|[@securibee](https://twitter.com/securibee) | The Notorious B.E.E. 🐝|
+|[@securibee](https://twitter.com/securibee) | Wu-Tang Killa Bee 🐝|
 |[@securinti](https://twitter.com/securinti) | Inti De Ceukelaire|
 |[@securitybites](https://twitter.com/securitybites) | Jesse Kinser|
 |[@SecurityMB](https://twitter.com/SecurityMB) | Michał Bentkowski|
@@ -143,14 +156,15 @@ Last updated on 2020/05/18
 |[@_staaldraad](https://twitter.com/_staaldraad) | Etienne Stalmans|
 |[@steve_mcilwain](https://twitter.com/steve_mcilwain) | Steve Mcilwain|
 |[@stokfredrik](https://twitter.com/stokfredrik) | STÖK|
-|[@streaak](https://twitter.com/streaak) | Akhil|
+|[@streaak](https://twitter.com/streaak) | streaak (on a break from hacking)|
 |[@sushiwushi2](https://twitter.com/sushiwushi2) | iamsushi|
 |[@sw33tLie](https://twitter.com/sw33tLie) | sw33tLie|
-|[@Th3G3nt3lman](https://twitter.com/Th3G3nt3lman) | Th3G3nt3lman 🇯🇴|
-|[@thedawgyg](https://twitter.com/thedawgyg) | dawgyg|
+|[@Th3G3nt3lman](https://twitter.com/Th3G3nt3lman) | Th3g3nt3lman 🇯🇴|
+|[@thedawgyg](https://twitter.com/thedawgyg) | dawgyg #BlackLivesMatter|
 |[@TomNomNom](https://twitter.com/TomNomNom) | TomNomNom|
 |[@twitt3raccnt](https://twitter.com/twitt3raccnt) | psaux|
 |[@uraniumhacker](https://twitter.com/uraniumhacker) | Uranium238|
+|[@vinodsparrow](https://twitter.com/vinodsparrow) | Vinoth Kumar|
 |[@vortexau](https://twitter.com/vortexau) | vortex|
 |[@vp440](https://twitter.com/vp440) | Felix Veillette-Potvin|
 |[@Wh11teW0lf](https://twitter.com/Wh11teW0lf) | Wh11teW0lf|

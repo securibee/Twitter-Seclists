@@ -14,3 +14,5 @@ done
 echo -e "\n" >> $README
 
 echo "Updated readme"
+git d README.md | grep -e "^+\|^-" | awk -F'[' '{ print $2}' | awk -F']' '{ print $1 }' | sort | uniq -u
+
