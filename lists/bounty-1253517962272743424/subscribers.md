@@ -1,12 +1,3 @@
-# Twitter SecLists
-Last updated on 2020/09/11
-
-
-## Latest additions
-bug_dutch farah_hawa01 h1_sp1d3r hateshaped IAmMandatory JohnH4X00R Masonhck3571 michenriksen nader_brandi nahoragg nbk_2000 nijagaw not_an_aardvark pudsec r0bre r0hack restr1ct3d rwincey satishb3 StanFaas theflofly vinodsparrow
-
-
-## bounty
 | handle | name | description |
 |--------|------|-------------|
 |[@0x0luke](https://twitter.com/0x0luke) | Luke | MSc Cyber Security | BSc Computer Forensics and Security | Web/Hardware hacker. HoF @Tesla @Apple @DeptofDefense @Uber @RockstarGames
@@ -102,7 +93,7 @@ bug_dutch farah_hawa01 h1_sp1d3r hateshaped IAmMandatory JohnH4X00R Masonhck3571
 |[@mcipekci](https://twitter.com/mcipekci) | Mustafa Can İPEKÇİ | I'm an engineer from Turkey, who is interested with biotechology, computer science and digital gaming.A.K.A nukedx
 |[@Michael1026H1](https://twitter.com/Michael1026H1) | Michael Blake | H1: michael1026.Software engineer interested in software security.Oregon
 |[@michenriksen](https://twitter.com/michenriksen) | Michael Henriksen | Freelance security engineer and consultant. Need help with web application security?
-|[@Mik317_](https://twitter.com/Mik317_) | Michele Romano | The walls of Sparta are the chests of its warriors - Agesilao
+|[@Mik317_](https://twitter.com/Mik317_) | Michele Romano | "The walls of Sparta are the chests of its warriors" - Agesilao
 |[@mongobug](https://twitter.com/mongobug) | mongo | I like bug bounty programs and  breaking things that other people have built. I love kudos.
 |[@MrMustacheMan3](https://twitter.com/MrMustacheMan3) | MrMustacheMan | https://t.co/N9HO1Nhef0
 |[@MrTuxracer](https://twitter.com/MrTuxracer) | Julien Ahrens | Vulnerability Intel | ROP Gadget Hunter | Privacy Enthusiast | Full-time #BugBounty hunter | @Hacker0x01 MVH | @SynackRedTeam
