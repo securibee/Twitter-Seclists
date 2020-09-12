@@ -1,13 +1,16 @@
 # Twitter SecLists
 Once I found out about Twitter lists I immediately fell in love. Shortly after I started curating my own and currently it's the only way I consume Twitter. On desktop, I use Tweetdeck and on mobile I have my lists pinned for easy swiping.
 
-<a href="https://www.buymeacoffee.com/securibee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+I'll keep this repo up-to-date with new additions! Currently only the bug bounty list is listed here.
+
+<a href="https://www.buymeacoffee.com/securibee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" ></a>
 
 
 Last updated on 2020/09/11
 
 
-## bounty
+## bounty list
+https://twitter.com/i/lists/1253517962272743424
 ### Latest additions
 bug_dutch farah_hawa01 h1_sp1d3r hateshaped Hxzeroone IAmMandatory JohnH4X00R Masonhck3571 michenriksen nader_brandi nahoragg nbk_2000 nijagaw not_an_aardvark pudsec r0bre r0hack restr1ct3d rwincey satishb3 StanFaas theflofly vinodsparrow
 
