@@ -43,14 +43,17 @@ readme () {
   cat <<EOT >> "$README"
 Once I found out about Twitter lists I immediately fell in love. Shortly after I started curating my own and currently it's the only way I consume Twitter. On desktop, I use Tweetdeck and on mobile I have my lists pinned for easy swiping.
 
-<a href="https://www.buymeacoffee.com/securibee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+I'll keep this repo up-to-date with new additions! Currently only the bug bounty list is listed here.
+
+<a href="https://www.buymeacoffee.com/securibee" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" ></a>
 EOT
   echo -e "\n" >> "$README"
   echo "Last updated on $(date +'%Y/%m/%d')" >> "$README"
   echo -e "\n" >> "$README"
 
   for d in lists/*; do
-    echo "## $(echo "$d" | awk -F'/' '{ print $2 }' | awk -F'-' '{ print $1}')" >> "$README"
+    echo "## $(echo "$d" | awk -F'/' '{ print $2 }' | awk -F'-' '{ print $1}') list" >> "$README"
+    echo "https://twitter.com/i/lists/$(echo $d | awk -F'/' '{ print $2 }' | awk -F'-' '{ print $2}')" >> "$README"
     echo "### Latest additions" >> "$README"
     echo $(cat "$DIR"/additions.txt) >> "$README"
     echo -e "\n" >> "$README"
