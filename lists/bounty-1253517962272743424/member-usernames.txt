@@ -65,6 +65,7 @@ HazanaSec
 hgreal1
 honoki
 HusseiN98D
+Hxzeroone
 IAmMandatory
 imranparray101
 infosec_au

@@ -18,9 +18,9 @@ get () {
 }
 
 process () {
-  sub_markdown="$DIR"/subscribers.md
-  sub_usernames="$DIR"/subscriber-usernames.txt
-  sub_usernames_old="$DIR"/subscriber-usernames-old.txt
+  sub_markdown="$DIR"/members.md
+  sub_usernames="$DIR"/member-usernames.txt
+  sub_usernames_old="$DIR"/member-usernames-old.txt
 
   [[ -f "$sub_usernames" ]] && cp "$sub_usernames" "$sub_usernames_old" 
   rm -rf "$sub_markdown" "$sub_usernames"
@@ -40,15 +40,22 @@ readme () {
   rm "$README"
 
   echo "# Twitter SecLists" >> "$README"
+  cat <<EOT >> "$README"
+Once I found out about Twitter lists I immediately fell in love. Shortly after I started curating my own and currently it's the only way I consume Twitter. On desktop, I use Tweetdeck and on mobile I have my lists pinned for easy swiping.
+
+<a href="https://www.buymeacoffee.com/securibee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+EOT
+  echo -e "\n" >> "$README"
   echo "Last updated on $(date +'%Y/%m/%d')" >> "$README"
   echo -e "\n" >> "$README"
 
   for d in lists/*; do
-    echo "## Latest additions" >> "$README"
+    echo "## $(echo "$d" | awk -F'/' '{ print $2 }' | awk -F'-' '{ print $1}')" >> "$README"
+    echo "### Latest additions" >> "$README"
     echo $(cat "$DIR"/additions.txt) >> "$README"
     echo -e "\n" >> "$README"
-    echo "## $(echo "$d" | awk -F'/' '{ print $2 }' | awk -F'-' '{ print $1}')" >> "$README"
-    echo "$(cat "$d"/subscribers.md | sed 's/\"//g')" >> "$README"
+    echo "### Members" >> "$README"
+    echo "$(cat "$d"/members.md | sed 's/\"//g')" >> "$README"
   done
 }
 
@@ -56,7 +63,7 @@ cleanup () {
   rm -rf "$RAW"
 }
 
-#get
-#process
+get
+process
 readme
 cleanup

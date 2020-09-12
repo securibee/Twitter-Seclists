@@ -1,15 +1,21 @@
 # Twitter SecLists
+Once I found out about Twitter lists I immediately fell in love. Shortly after I started curating my own and currently it's the only way I consume Twitter. On desktop, I use Tweetdeck and on mobile I have my lists pinned for easy swiping.
+
+<a href="https://www.buymeacoffee.com/securibee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 Last updated on 2020/09/11
 
 
-## Latest additions
-bug_dutch farah_hawa01 h1_sp1d3r hateshaped IAmMandatory JohnH4X00R Masonhck3571 michenriksen nader_brandi nahoragg nbk_2000 nijagaw not_an_aardvark pudsec r0bre r0hack restr1ct3d rwincey satishb3 StanFaas theflofly vinodsparrow
-
-
 ## bounty
+### Latest additions
+bug_dutch farah_hawa01 h1_sp1d3r hateshaped Hxzeroone IAmMandatory JohnH4X00R Masonhck3571 michenriksen nader_brandi nahoragg nbk_2000 nijagaw not_an_aardvark pudsec r0bre r0hack restr1ct3d rwincey satishb3 StanFaas theflofly vinodsparrow
+
+
+### Members
 | handle | name | description |
 |--------|------|-------------|
-|[@0x0luke](https://twitter.com/0x0luke) | Luke | MSc Cyber Security | BSc Computer Forensics and Security | Web/Hardware hacker. HoF @Tesla @Apple @DeptofDefense @Uber @RockstarGames
+|[@0x0luke](https://twitter.com/0x0luke) | Luke | MSc Cyber Security | BSc Computer Forensics and Security | Web/Hardware hacker. HoF @Tesla @Apple @DeptofDefense @Uber @RockstarGames @Cloudinary @Dell
 |[@0xacb](https://twitter.com/0xacb) | André Baptista | 🇵🇹 Security researcher and bug bounty hunter living somewhere between 3D and 7D. Freedφm. 1128350274
 |[@0xd0m7](https://twitter.com/0xd0m7) | 0xd0m7 | Security Researcher
 |[@0xInfection](https://twitter.com/0xInfection) | Pinaki | I am just an infected geek. 🤠
@@ -76,6 +82,7 @@ bug_dutch farah_hawa01 h1_sp1d3r hateshaped IAmMandatory JohnH4X00R Masonhck3571
 |[@hgreal1](https://twitter.com/hgreal1) | hg_real | Just another random QA guy
 |[@honoki](https://twitter.com/honoki) | Pieter Hiele | Cyber entomologist 🐛 amateur musician 🎹 occasional blogger 💻 https://t.co/0to21Mri4bhttps://t.co/fd9pUEXxbn
 |[@HusseiN98D](https://twitter.com/HusseiN98D) | Hussein Daher | Bug bounty hunter - If you're reading this I love you. - hussein98d@gmail.com - https://t.co/JTJxMBZ7Qshttps://t.co/8iuIYnLHg4
+|[@Hxzeroone](https://twitter.com/Hxzeroone) | Hx01 | Not evil just misunderstood.
 |[@IAmMandatory](https://twitter.com/IAmMandatory) | mandatory/Matthew Bryant | Sec@Snapchat. Ex-Google, Uber, Bishop Fox. XSS Hunter author, DNS/TLD/web security researcher. parallel26(at)opsecmail(dot)com
 |[@imranparray101](https://twitter.com/imranparray101) | Imran Parray | Independent cyber security researcher || Hacker || programmer || Linux Freak || Full time Bug hunter.
 |[@infosec_au](https://twitter.com/infosec_au) | shubs | continuous security, @assetnote
