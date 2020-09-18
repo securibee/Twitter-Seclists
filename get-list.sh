@@ -1,7 +1,7 @@
 #!/bin/bash
 [[ -z $1 ]] && LIST_ID="1253517962272743424" || LIST_ID=$1
 CURSOR="-1"
-LIST_NAME=$(curl -s -X GET -H "Authorization: Bearer $TWITTER_TOKEN" "https://api.twitter.com/1.1/lists/show.json?list_id=$LIST_ID" | jq -r '.slug')
+LIST_NAME=$(curl -s -H "Authorization: Bearer $TWITTER_TOKEN" "https://api.twitter.com/1.1/lists/show.json?list_id=$LIST_ID" | jq -r '.slug')
 DIR=$PWD/lists/$LIST_NAME-$LIST_ID
 RAW="$DIR/json"
 
@@ -10,10 +10,10 @@ rm -rf "$RAW"/*
 
 get () {
   while [[ $CURSOR -ne 0 ]]; do
-    curl -s -X GET -H "Authorization: Bearer $TWITTER_TOKEN" \
+    curl -s -H "Authorization: Bearer $TWITTER_TOKEN" \
     "https://api.twitter.com/1.1/lists/members.json?list_id=$LIST_ID&cursor=$CURSOR&skip_status=true" \
-    >> $RAW/$CURSOR
-    CURSOR=$(cat $RAW/$CURSOR | jq '.next_cursor')
+    >> $RAW/$CURSOR;
+    CURSOR=$(cat $RAW/$CURSOR | jq '.next_cursor');
   done
 }
 
