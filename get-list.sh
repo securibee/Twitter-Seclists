@@ -1,5 +1,9 @@
 #!/bin/bash
 [[ -z $1 ]] && LIST_ID="1253517962272743424" || LIST_ID=$1
+if [[ -z "$TWITTER_TOKEN" ]]; then
+  echo "TWITTER_TOKEN not set";
+  exit 1;
+fi;
 CURSOR="-1"
 LIST_NAME=$(curl -s -H "Authorization: Bearer $TWITTER_TOKEN" "https://api.twitter.com/1.1/lists/show.json?list_id=$LIST_ID" | jq -r '.slug')
 DIR=$PWD/lists/$LIST_NAME-$LIST_ID

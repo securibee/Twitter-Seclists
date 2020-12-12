@@ -13,6 +13,7 @@ ajxchapman
 akita_zen
 albinowax
 alicanact60
+AlMadjus
 Almroot
 Alra3ees
 alxbrsn
@@ -31,6 +32,7 @@ bendtheory
 bitquark
 Black2Fan
 BonJarber
+brutelogic
 brxxnh1
 bsysop
 BugBountyHQ
@@ -38,17 +40,19 @@ bug_dutch
 chevonphillip
 codecancare
 codingo_
+colston3000
 Corb3nik
 d0nutptr
 damian_89_
 dee__see
 defparam
 dhauenstein
+djurado9
 eboda_
 EdOverflow
 erbbysam
 eur0pa_
-farah_hawa01
+Farah_Hawaa
 filedescriptor
 foobar0x7
 fransrosen
@@ -76,6 +80,7 @@ InsiderPhD
 irsdl
 itscachemoney
 ITSecurityguard
+J0_mart
 jackds1986
 jackhcable
 Jhaddix
@@ -153,7 +158,6 @@ skeltavik
 smiegles
 sml555_
 snyff
-soaj1664ashar
 spaceraccoonsec
 _staaldraad
 StanFaas
@@ -171,11 +175,11 @@ uraniumhacker
 vinodsparrow
 vortexau
 vp440
+wcbowling
 Wh11teW0lf
 x1m_martijn
 xEHLE_
 Yassineaboukir
 yaworsk
 yip404
-zeroxyele
 zseano
