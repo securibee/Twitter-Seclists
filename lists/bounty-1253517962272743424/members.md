@@ -2,6 +2,7 @@
 |--------|------|-------------|
 |[@0x0luke](https://twitter.com/0x0luke) | Luke | MSc Cyber Security | BSc Computer Forensics and Security | Web/Hardware hacker | HoF @Tesla @Apple @DeptofDefense @Uber @RockstarGames @Cloudinary @Dell @Adobe
 |[@0xacb](https://twitter.com/0xacb) | André Baptista | 🇵🇹 Security researcher and bug bounty hunter living somewhere between 3D and 7D. Freedφm. 1128350274
+|[@0xCaptainFreak](https://twitter.com/0xCaptainFreak) | CaptainFreak | Hacker.
 |[@0xd0m7](https://twitter.com/0xd0m7) | 0xd0m7 | Security Researcher
 |[@0xInfection](https://twitter.com/0xInfection) | Pinaki ❄️ | I am just an Infected Geek.
 |[@0xpatrik](https://twitter.com/0xpatrik) | Patrik Hudak | (Automation x AI)²
@@ -30,14 +31,14 @@
 |[@arneswinnen](https://twitter.com/arneswinnen) | Arne Swinnen | IT Security. Bug Bounty Hunter.
 |[@atul_hax](https://twitter.com/atul_hax) | Atul | I love pwn, reading RFCs, and I just dabble on the keyboard until things happen but Emacs gave me carpal tunnel.
 |[@avlidienbrunn](https://twitter.com/avlidienbrunn) | ­Mathias Karlsson | Web security fiddler. Bug bounty bastard. CTF with @HackingForSoju.
-|[@B3nac](https://twitter.com/B3nac) | Kyle | Full time Android Bug Wrangler for Google. Creator of InjuredAndroid and BountyPay apk. Send me all the apks plz. https://t.co/myQCNOp959
+|[@B3nac](https://twitter.com/B3nac) | Kyle | I think I'll have a nice cup of tea, or a large brandy. My opinions do not represent anyone else (that should be obvious). https://t.co/myQCNOp959
 |[@bbuerhaus](https://twitter.com/bbuerhaus) | Brett Buerhaus | https://t.co/usMDC8wsVM - websec research, bug bounties, and puzzles.
 |[@bendtheory](https://twitter.com/bendtheory) | bend theory | Techno Entomologist | Web App Pen Tester | OSCP | Hack with me on Discord! https://t.co/I3RNP7JKFD
 |[@bitquark](https://twitter.com/bitquark) | bitquark ✪ | Tesla red team by day, |redacted| by night. Black Hat EU review board. Former Bugcrowd #1. Tweets may contain traces of cat. He/him. // nb ỉrỉ ḫt
 |[@Black2Fan](https://twitter.com/Black2Fan) | Sergey Bobrov | 
 |[@bogdantcaciuc7](https://twitter.com/bogdantcaciuc7) | Bogdan Tcaciuc | full-time bug bounty hunter - https://t.co/VrjkQcK5JX
-|[@BonJarber](https://twitter.com/BonJarber) | Jon Barber 𐃏 | AppSec engineer @Cruise | Ex @facebook, @NCCsecurityUS | Building and breaking things
-|[@brutelogic](https://twitter.com/brutelogic) | Brute Logic | #Hacking R&D | #XSS | #WAF bypass | @rodoassis | @knoxss_me | #hack2learn | https://t.co/GsKYojfpM0
+|[@BonJarber](https://twitter.com/BonJarber) | Jon Barber 🤖 | AppSec engineer @Cruise | Ex @facebook, @NCCsecurityUS | Building and breaking things 𐃏
+|[@brutelogic](https://twitter.com/brutelogic) | Brute Logic | #Hacking R&D | #XSS | #WAF bypass | @rodoassis | @knoxss_me | #hack2learn | https://t.co/GsKYojfpM0 | https://t.co/LfQwLdJvzr
 |[@brxxnh1](https://twitter.com/brxxnh1) | brxxn (security) | views and opinions are those of a wild ostrich on the loose
 |[@bsysop](https://twitter.com/bsysop) | bsysop | If you can dream with it, you can do it🤘🏻!
 |[@BugBountyHQ](https://twitter.com/BugBountyHQ) | BugBountyHQ | 
@@ -48,15 +49,15 @@
 |[@codingo_](https://twitter.com/codingo_) | Michael Skelton | Global Head of Security Ops and Researcher Enablement @bugcrowd, https://t.co/PhrcMCK7dj & https://t.co/RUYKqddXOk Maintainer of NoSQLMap, Interlace, Crithit, others
 |[@colston3000](https://twitter.com/colston3000) | Jon Colston | Serial Entrepreneur & White Hat Hacker
 |[@Corb3nik](https://twitter.com/Corb3nik) | Ian Bouchard | Security Enthusiast, CTF Fanatic, Bug Bounty Hunter, @opentoallctf/perfect.blue Web guy, NorthernCoalition Co-Founder
-|[@d0nutptr](https://twitter.com/d0nutptr) | d0nut | Lead Security Engineer @graplsec, part-time bug hunter (https://t.co/INDLSLS2Qu). Building better recon @resync_gg . (he/they). I am no bystander.
+|[@d0nutptr](https://twitter.com/d0nutptr) | d0nut | Lead Security Engineer @graplsec, part-time bug hunter (https://t.co/INDLSLS2Qu). Self-described 8/10 Stitch impression. (he/they). I am no bystander.
 |[@damian_89_](https://twitter.com/damian_89_) | Damian Strobel | #webdev #php #machinelearning #python #laravel #python #websec #bugbounty #pentest
-|[@debangshu_kundu](https://twitter.com/debangshu_kundu) | DK999 | BACK TO HACKING | heckurman🌛• Committed♥️ •Bugcrowd MVP 2020 Q2🏆 •Rebel 🔱
+|[@debangshu_kundu](https://twitter.com/debangshu_kundu) | DK999 | BACK TO HACKING | heckurman🌛•Bugcrowd MVP 2020 Q2🏆 •Rebel 🔱
 |[@dee__see](https://twitter.com/dee__see) | Dominic | Outdoor enthusiast, friend of all dogs, avid source code reader, AppSec engineer @gitlab - fighting inertia
 |[@defparam](https://twitter.com/defparam) | Evan Custodio | FPGA/Hardware Hacker. Web Security Researcher. I break web servers so that others can't.@awscloud - My opinions are my own
 |[@dhauenstein](https://twitter.com/dhauenstein) | Daniel Hauenstein | I am the Klaus Kinski of IT security. I do bug bounties. I know memes and drink beer. Hacking magician. #kaeferjaeger
 |[@djurado9](https://twitter.com/djurado9) | Diego Jurado | Red Team & Ethical Hacking at Teléfonica / Red4Sec Co-Founder / OSCP/OSWP / Bug Hunter & Synack Red Team member / Co-Founder @fwhibbit_blog
 |[@eboda_](https://twitter.com/eboda_) | eboda | full-spectrum cyber warrior
-|[@EdOverflow](https://twitter.com/EdOverflow) | Ed | Web developer & security researcher.
+|[@EdOverflow](https://twitter.com/EdOverflow) | Ed | Web developer & security researcher¹¹Citation needed
 |[@erbbysam](https://twitter.com/erbbysam) | erbbysamᐸscriptᐳaler | software, cryptography, etc. DEFCON black badge with https://t.co/UBvdIM5TW6
 |[@eur0pa_](https://twitter.com/eur0pa_) | europa | 𝙸 𝚑𝚊𝚌𝚔 𝚜𝚝𝚞𝚏𝚏 𝚏𝚘𝚛 𝚙𝚛𝚘𝚏𝚒𝚝 𝚊𝚗𝚍 𝚕𝚒𝚏𝚝 𝚑𝚎𝚊𝚟𝚢 𝚝𝚑𝚒𝚗𝚐𝚜 𝚏𝚘𝚛 𝚏𝚞𝚗. 𝚂𝚘𝚌𝚒𝚊𝚋𝚕𝚎 𝚗𝚘𝚝 𝚜𝚘𝚌𝚒𝚊𝚕.
 |[@Farah_Hawaa](https://twitter.com/Farah_Hawaa) | Farah | noobiest of the noobs | content creator | AppSec @Bugcrowd | she/her | personal account
@@ -68,12 +69,13 @@
 |[@gehaxelt](https://twitter.com/gehaxelt) | Sebastian Neef | Freelancer. Student. Traveller. Hacker. WhiteHat. Bughunter. CTFs @ENOFLAGBlogs @0daywork, @blogbasis and co-Founder of @internetwache
 |[@gerben_javado](https://twitter.com/gerben_javado) | Gerben Javado | Security Engineer @Facebook. Into bug bounties. Personal opinions.
 |[@gregxsunday](https://twitter.com/gregxsunday) | Bug Bounty Reports Explained | Grzegorz Niedziela pentester / YT content creatorcheck out my channel Bug Bounty Reports Explained https://t.co/7RxguvoQug
-|[@Gromak123_Sec](https://twitter.com/Gromak123_Sec) | Gromak123_Security | French Security Researcher and Pentester at @Unumkey. C|EH Certified. Bounty Hunter at @YesWeHack and @Hacker0x01.3 times #LeHack Bugbounty's Winner.
+|[@Gromak123_Sec](https://twitter.com/Gromak123_Sec) | Gromak123_Security | French Security Researcher and Pentester at @Unumkey | C|EH Certified | Bounty Hunter at @YesWeHack & @Hacker0x01|3 times #LeHack Bugbounty's Winner.
 |[@gwendallecoguic](https://twitter.com/gwendallecoguic) | Gwendal Le Coguic | Bug hunter, tool maker.
 |[@h1_sp1d3r](https://twitter.com/h1_sp1d3r) | Evgeniy Yakovchuk | Toss a coin to your hacker, A friend of humanity.
 |[@hacker_](https://twitter.com/hacker_) | Corben Leo | Christian, Computer Science major @DakotaState, I try to hack things 🤷🏻‍♂️
 |[@hahwul](https://twitter.com/hahwul) | HAHWUL | 🔥 Security Engineer and Developer and H4cker Say ha-hul but you can just call me howl. and he/him
 |[@hakluke](https://twitter.com/hakluke) | HΔKLUKΞ | Luke StephensDad, husband, hacker (cyber security), bug bounties, golang, indie hacker.Manager for Training + QA @Bugcrowdhttps://t.co/Zurv4bdcyFhttps://t.co/d1aqj2Q46E
+|[@harshbothra_](https://twitter.com/harshbothra_) | Harsh Bothra | Security Engineer • Cobalt Core Pentester • Bugcrowd Top 150 & MVP '20 • Synack Red Teamer • Author • Speaker • Blogger • Project Bheem •Views are personal.
 |[@hateshaped](https://twitter.com/hateshaped) | hateshape | 
 |[@HazanaSec](https://twitter.com/HazanaSec) | ʜᴀᴢᴀɴᴀ | ␀​https://t.co/OqwyPoZFFf
 |[@hgreal1](https://twitter.com/hgreal1) | hg_real | Just another random QA guy
@@ -83,11 +85,11 @@
 |[@hxh13_](https://twitter.com/hxh13_) | h13- | DevSecOps, AppSec, Bounty Hunter, Husband, Father and weekend chef :P
 |[@Hxzeroone](https://twitter.com/Hxzeroone) | Hx01 | Not evil just misunderstood.
 |[@IAmMandatory](https://twitter.com/IAmMandatory) | mandatory/Matthew Bryant | Sec@Snapchat. Ex-Google, Uber, Bishop Fox. XSS Hunter author, DNS/TLD/web security researcher. parallel26(at)opsecmail(dot)com
-|[@imranparray101](https://twitter.com/imranparray101) | Imran Parray | Independent cyber security researcher || Hacker || programmer || Linux Freak || Full time Bug hunter.
+|[@impratikdabhi](https://twitter.com/impratikdabhi) | Pratik Dabhi | Bug Bounty Hunter | Bugcrowd Top 200 Hackers Globally | Synack Red Teamer | Synack Envoy |  Pentester | Youtuber | Speaker | CEH | eJPT
+|[@imranparray101](https://twitter.com/imranparray101) | Imran Parray | I Break Stuff and Make Stuff To Make This World a Better Place.
 |[@infosec_au](https://twitter.com/infosec_au) | shubs | Co-founder, security researcher. Building an attack surface management platform, @assetnote
 |[@inhibitor181](https://twitter.com/inhibitor181) | Cosmin | Bug bounty hunter
 |[@InsiderPhD](https://twitter.com/InsiderPhD) | Katie Paxton-Fear | Lecturer, Occasional #BugBounty hunter & Educational #CyberSecurity YouTuber. PhD at @CranfieldDefSec: Insider Threats using #nlproc. she/her. @hacknotcrime
-|[@intidc](https://twitter.com/intidc) | Inti De Ceukelaire | Hacker @securinti (EN) | Head of Hackers @intigriti | Tweets are my mine and so is your computer
 |[@irsdl](https://twitter.com/irsdl) | Soroush Dalili | appsec \ web to https://t.co/daizDNxSST @MDSecLabs | a delimiter character fan | RT/LK can be accidental or !
 |[@itscachemoney](https://twitter.com/itscachemoney) | Tanner | Somewhere between a builder and a breaker | @hacknotcrime
 |[@ITSecurityguard](https://twitter.com/ITSecurityguard) | Patrik Fehrenbach🤖 | rɪsˈpɒnsəbl dɪsˈkləʊʒə   HackerOne
@@ -106,9 +108,11 @@
 |[@kapytein](https://twitter.com/kapytein) | Nadir | Student and security engineer by day, participating on bug bounty programs at night. @kapytein on most platforms.
 |[@KasperFritzo](https://twitter.com/KasperFritzo) | Kasper Borg | Danish Security Researcher.
 |[@kazan71p](https://twitter.com/kazan71p) | kazan71p | https://t.co/oTV7m505NG https://t.co/HOkYMVa48M
+|[@Masonhck3571](https://twitter.com/Masonhck3571) | Masonhck357 | Dominican | Cannabis Connoisseur   | Hacker BugCrowd  https://t.co/GFZ8ldJfFi | CompTIA Net+ Certified | CompTIA Sec+ certified | US Navy Vet | Vegan
 |[@MasteringBurp](https://twitter.com/MasteringBurp) | Mastering Burp Suite Pro | Tweets and retweets about Burp Suite Pro | Managed by @Agarri_FR | Not affiliated with @Portswigger | More free resources at https://t.co/NRuCJwzHMq
 |[@mazen160](https://twitter.com/mazen160) | Mazin Ahmed | Hacker | Builder. I talk about Web Security, Security Engineering, DevSecOps, and Tech Startups. Founder @FullHunt. Ex-@ProtonMail. Blue by Day. Red by Night.
 |[@mcipekci](https://twitter.com/mcipekci) | Mustafa Can İPEKÇİ | I'm an engineer from Turkey, who is interested with biotechnology, computer science and digital gaming.A.K.A nukedx
+|[@mertistaken](https://twitter.com/mertistaken) | mert tasci | hacking is cool... occasionally.rank #4 bug hunter on the @bugcrowd all time leaderboard.
 |[@Michael1026H1](https://twitter.com/Michael1026H1) | Michael Blake | H1: michael1026.Ethical hacker / software engineer.Oregon
 |[@michaelhyndman](https://twitter.com/michaelhyndman) | Michael Hyndman | Follower of Christ, Husband, Dad of 3, student of history & hacking.
 |[@michenriksen](https://twitter.com/michenriksen) | Michael Henriksen | Application Security Engineer at GitLab
@@ -119,7 +123,7 @@
 |[@nader_brandi](https://twitter.com/nader_brandi) | nader | Security Researcher / Bug Bounty Hunter / web developerhttps://t.co/1mefovxcwn
 |[@NahamSec](https://twitter.com/NahamSec) | Ben Sadeghipour | Hacker & Content Creator🇮🇷 Co-founder @bugbountyforum & https://t.co/pdnM0uQly1 | Head of Hacker Education @Hacker0x01 | 🎥https://t.co/RXnEEloDtu | 👨🏽‍💻https://t.co/6BfCVo837Z
 |[@nahoragg](https://twitter.com/nahoragg) | Rohan Aggarwal | I spend more time on things, to understand them until they don’t understand me and start giving me what they aren’t programmed to.
-|[@nbk_2000](https://twitter.com/nbk_2000) | ₦฿₭ | Legit Security Researcher... and cat. All paws my own.#SemperFur #SecurityResearching #Legit
+|[@nbk_2000](https://twitter.com/nbk_2000) | ₦฿₭ | Legit Security Researcher¹... and cat. All paws my own.¹This claim is disputed.#SemperFur #SecurityResearching #Legit
 |[@ngalongc](https://twitter.com/ngalongc) | Ron Chan | YouTube channel: https://t.co/IGj1aW40roSecurity Engineer at GitLab. This is a personal stream, opinions expressed are mine.
 |[@ngkogkos](https://twitter.com/ngkogkos) | Nick || hunt4p1zza | I find bugs for 🍕.
 |[@ngocdh](https://twitter.com/ngocdh) | Huy Ngoc | Pentester
@@ -136,8 +140,8 @@
 |[@pnig0s](https://twitter.com/pnig0s) | Terry Zhang | Security @ Ant Group (Attack & Defence)
 |[@pudsec](https://twitter.com/pudsec) | Shaun | 
 |[@pxmme1337](https://twitter.com/pxmme1337) | Pomme | Triager @Hacker0x01 | Views and opinions are my own and do not reflect my employer's | Memes are life
-|[@qimpz](https://twitter.com/qimpz) | iQimpz | Offensive Security Enthusiast | Bug Bounty Hunter | Student at University of Central Arkansas
-|[@r0bre](https://twitter.com/r0bre) | r0bre | IT-Sec @tudarmstadt / iOS security research / CTF / web security & bugbounty / stack sommelier / code connaisseur / kernel asmr artist / 👾📲
+|[@qimpz](https://twitter.com/qimpz) | iQimpz | Offensive Security Enthusiast | Bug Bounty Hunter | Student
+|[@r0bre](https://twitter.com/r0bre) | r0bre | IT-Sec @tudarmstadt / iOS security research / CTF / web security & bugbounty / stack sommelier / code connaisseur / kernel asmr artist / vim gang 👾📲
 |[@r0hack](https://twitter.com/r0hack) | Ramazan | Researcher in @deteacthacked by r0hackhttps://t.co/xUo4swrcWM
 |[@r0x33d](https://twitter.com/r0x33d) | Matt | Security Researcher | Bug Bounty Hunter https://t.co/yUegpDg1DH  | Developer
 |[@ralamosm](https://twitter.com/ralamosm) | ralamosm | internet nerd
@@ -162,7 +166,7 @@
 |[@seanmeals](https://twitter.com/seanmeals) | Sean Melia | I bug bounty when I can. Thoughts are my own. etc.
 |[@seanyeoh](https://twitter.com/seanyeoh) | notsy | Startup Engineer (backend & devops) @assetnote. tweets and thoughts are my own.
 |[@SebMorin1](https://twitter.com/SebMorin1) | Sébastien Morin | Bug bounty hunter, pentester and security researcher
-|[@securibee](https://twitter.com/securibee) | King Beedorah 🐝 | Take them by swarm
+|[@securibee](https://twitter.com/securibee) | Pusha B 🐝 | Security + Development + Productivity
 |[@securinti](https://twitter.com/securinti) | Inti De Ceukelaire | Uncertified Ethical Hacker (UEH) and bug bounty bro. @intidc (dutch)­­­, community dude @intigriti. Tweets are mine and so is your computer.
 |[@securitybites](https://twitter.com/securitybites) | Jesse Kinser | Hackerone/bugcrowd: randomdeduction
 |[@SecurityMB](https://twitter.com/SecurityMB) | Michał Bentkowski | Penetration testing, bounty hunting
@@ -188,9 +192,9 @@
 |[@twitt3raccnt](https://twitter.com/twitt3raccnt) | psaux | https://t.co/yQUH0WHaJo
 |[@un4gii](https://twitter.com/un4gii) | un4gi | I break computers and build cars. Follow me on Medium at https://t.co/adE5yTnF9m for #infosec tips and writeups!
 |[@uraniumhacker](https://twitter.com/uraniumhacker) | Uranium238 | CS @ California State University, Fullerton. BB Team: OphionI do the hacks.
-|[@val_brux](https://twitter.com/val_brux) | Valerio Brussani | Web&Mobile Security | Bug Hunting | OS{CP|WE},eMAPT | @SynackRedTeam, Cobalt, H1,0C,BC, etc. | https://t.co/cyVwdyMzy9 | CTF @TheRomanXpl0it @mhackeroni
+|[@val_brux](https://twitter.com/val_brux) | Valerio Brussani | Web&Mobile Security | Bug Hunting | OS{CP|WE},eMAPT | @SynackRedTeam, @Cobalt_io, H1,0C,BC, etc. | https://t.co/cyVwdz4apH | CTF @TheRomanXpl0it @mhackeroni
 |[@vinnyvinoth242](https://twitter.com/vinnyvinoth242) | ᴠɪɴᴏᴛʜ ᴋᴜᴍᴀʀ👨🏻‍💻 | Full-Time Bug Bounty Hunter 👨‍💻 | Penetration Tester 🖥️ | Super DaD 👨‍👩‍👦 | Learning Forever 💯.
-|[@vinodsparrow](https://twitter.com/vinodsparrow) | Vinoth Kumar | DevSecOps. Partime Bug Bounty Hunter. Views are obviously mine. working at @grofers
+|[@vinodsparrow](https://twitter.com/vinodsparrow) | Vinoth Kumar | DevSecOps. Partime Bug Bounty Hunter. Views are obviously mine. @groferseng
 |[@vortexau](https://twitter.com/vortexau) | vortex | I work @ Bugcrowd (personal account). Ex-Pentester, Ex-DevTweets about infosec, bounty hunting, homebrewing and cars.SecTalks Adelaide Co-organiser. OSCP/OSWP
 |[@vp440](https://twitter.com/vp440) | Felix Veillette-Potvin | Pentester @gosecure_inc, Bug bounty hunter, OSCP, general security enthusiast. Opinions and views expressed are my own.
 |[@wcbowling](https://twitter.com/wcbowling) | William Bowling | Software Developer for Biteable, a.k.a vakzz when doing bug bounties and CTFs with @pb_ctf and @OpenToAllCTF - https://t.co/TZhjNDFyZR

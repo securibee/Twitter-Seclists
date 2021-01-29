@@ -33,6 +33,7 @@ bbuerhaus
 bendtheory
 bitquark
 Black2Fan
+bogdantcaciuc7
 BonJarber
 brutelogic
 brxxnh1
@@ -47,6 +48,7 @@ colston3000
 Corb3nik
 d0nutptr
 damian_89_
+debangshu_kundu
 dee__see
 defparam
 dhauenstein
@@ -74,6 +76,7 @@ hateshaped
 HazanaSec
 hgreal1
 honoki
+hunter0x7
 HusseiN98D
 hxh13_
 Hxzeroone
@@ -82,6 +85,7 @@ imranparray101
 infosec_au
 inhibitor181
 InsiderPhD
+intidc
 irsdl
 itscachemoney
 ITSecurityguard
@@ -100,8 +104,8 @@ jstnkndy
 kapytein
 KasperFritzo
 kazan71p
-Masonhck3571
 MasteringBurp
+mazen160
 mcipekci
 Michael1026H1
 michaelhyndman
@@ -121,6 +125,7 @@ nijagaw
 nnwakelam
 not_an_aardvark
 nullenc0de
+nytr0gen_
 orange_8361
 p4fg
 PascalSec
@@ -129,6 +134,7 @@ plmaltais
 pnig0s
 pudsec
 pxmme1337
+qimpz
 r0bre
 r0hack
 r0x33d
@@ -178,16 +184,21 @@ thedawgyg
 theflofly
 TomNomNom
 twitt3raccnt
+un4gii
 uraniumhacker
+val_brux
 vinnyvinoth242
 vinodsparrow
 vortexau
 vp440
 wcbowling
 Wh11teW0lf
+win3zz
 x1m_martijn
 xEHLE_
 Yassineaboukir
 yaworsk
 yip404
+Zealsham
+zonduu1
 zseano
