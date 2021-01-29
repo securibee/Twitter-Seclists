@@ -4,8 +4,10 @@
 0xInfection
 0xpatrik
 0xteknogeek
+0xw2w
 11xuxx
 1ndianl33t
+ADITYASHENDE17
 adrien_jeanneau
 AEMSecurity
 Agarri_FR
@@ -38,6 +40,7 @@ bsysop
 BugBountyHQ
 bug_dutch
 chevonphillip
+cinzinga_
 codecancare
 codingo_
 colston3000
@@ -53,6 +56,7 @@ EdOverflow
 erbbysam
 eur0pa_
 Farah_Hawaa
+fbeaudoin_
 filedescriptor
 foobar0x7
 fransrosen
@@ -71,6 +75,7 @@ HazanaSec
 hgreal1
 honoki
 HusseiN98D
+hxh13_
 Hxzeroone
 IAmMandatory
 imranparray101
@@ -99,6 +104,7 @@ Masonhck3571
 MasteringBurp
 mcipekci
 Michael1026H1
+michaelhyndman
 michenriksen
 Mik317_
 mongobug
@@ -126,6 +132,7 @@ pxmme1337
 r0bre
 r0hack
 r0x33d
+ralamosm
 Regala_
 restr1ct3d
 rez0__
@@ -153,7 +160,7 @@ securitybites
 SecurityMB
 shailesh4594
 shmilylty
-shub66452
+Sil3nt_4unt3r
 skeltavik
 smiegles
 sml555_
@@ -172,6 +179,7 @@ theflofly
 TomNomNom
 twitt3raccnt
 uraniumhacker
+vinnyvinoth242
 vinodsparrow
 vortexau
 vp440
