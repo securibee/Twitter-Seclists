@@ -1,5 +1,6 @@
 0x0luke
 0xacb
+0xCaptainFreak
 0xd0m7
 0xInfection
 0xpatrik
@@ -72,6 +73,7 @@ h1_sp1d3r
 hacker_
 hahwul
 hakluke
+harshbothra_
 hateshaped
 HazanaSec
 hgreal1
@@ -81,11 +83,11 @@ HusseiN98D
 hxh13_
 Hxzeroone
 IAmMandatory
+impratikdabhi
 imranparray101
 infosec_au
 inhibitor181
 InsiderPhD
-intidc
 irsdl
 itscachemoney
 ITSecurityguard
@@ -104,9 +106,11 @@ jstnkndy
 kapytein
 KasperFritzo
 kazan71p
+Masonhck3571
 MasteringBurp
 mazen160
 mcipekci
+mertistaken
 Michael1026H1
 michaelhyndman
 michenriksen
