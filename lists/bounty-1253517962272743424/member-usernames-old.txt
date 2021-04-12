@@ -3,11 +3,13 @@
 0xCaptainFreak
 0xd0m7
 0xInfection
+0xLupin
 0xpatrik
 0xteknogeek
 0xw2w
 11xuxx
 1ndianl33t
+4non_Hunter
 ADITYASHENDE17
 adrien_jeanneau
 AEMSecurity
@@ -24,7 +26,6 @@ Alyssa_Herrera_
 ameenmaali
 andirrahmani1
 anshuman_bh
-ap_ceng
 ArchAngelDDay
 arneswinnen
 atul_hax
@@ -56,6 +57,7 @@ dhauenstein
 djurado9
 eboda_
 EdOverflow
+engi_arp
 erbbysam
 eur0pa_
 Farah_Hawaa
@@ -83,12 +85,14 @@ HusseiN98D
 hxh13_
 Hxzeroone
 IAmMandatory
+imhaxormad
 impratikdabhi
 imranparray101
 infosec_au
 inhibitor181
 InsiderPhD
 irsdl
+ismailsntrk7
 itscachemoney
 ITSecurityguard
 J0_mart
@@ -119,6 +123,7 @@ mongobug
 MrMustacheMan3
 MrTuxracer
 nader_brandi
+naglinagli
 NahamSec
 nahoragg
 nbk_2000
@@ -144,6 +149,7 @@ r0hack
 r0x33d
 ralamosm
 Regala_
+renniepak
 restr1ct3d
 rez0__
 Rhynorater
@@ -179,6 +185,7 @@ spaceraccoonsec
 _staaldraad
 StanFaas
 steve_mcilwain
+StijnJans
 stokfredrik
 streaak
 sushiwushi2
@@ -200,6 +207,7 @@ Wh11teW0lf
 win3zz
 x1m_martijn
 xEHLE_
+xv4yne1
 Yassineaboukir
 yaworsk
 yip404
